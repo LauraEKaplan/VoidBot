@@ -1,0 +1,6 @@
+discord
+discord-py
+flask
+psutil
+asyncio
+signal

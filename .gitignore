@@ -1,0 +1,24 @@
+# Byte-compiled / optimized files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+.env
+.venv
+env/
+venv/
+
+# Logs and coverage reports
+*.log
+.coverage
+.pytest_cache/
+
+# Dependency management
+*.lock
+pdm.lock
+poetry.lock
+
+# IDE-specific
+.idea/
+.vscode/
